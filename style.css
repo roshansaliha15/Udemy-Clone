@@ -216,7 +216,15 @@ body {
 
 @media screen and (max-width:800px) {
     body {
-        font-size: 10px;
+        font-size: 12px;
+    }
+
+    .sale-image__offer{
+
+        left: 0px;
+        top: 30px;
+        
+        
     }
 
 }
@@ -237,11 +245,5 @@ body {
     .navbar__s4{
         display: block;
     }
-    .sale-image__offer{
-        width: 45%;
-        left: 0px;
-       
-        
-        
-    }
+    
 }
